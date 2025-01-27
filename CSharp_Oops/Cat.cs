@@ -9,6 +9,6 @@ public class Cat:Animal,IPet{
     }
     
     public void Play(){
-        Console.WriteLine("A cat is playing");
+        Console.WriteLine("Cat is fetching the ball");
     }
 }
